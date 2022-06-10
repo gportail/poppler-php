@@ -1,5 +1,5 @@
 {
-    "name" : "ncjoes/poppler-php",
+    "name" : "knox/poppler-php",
     "description" : "Complete, Comprehensive and Flexible PHP wrapper for Poppler-utils",
     "keywords" : ["Poppler-utils", "Poppler-PHP", "PDF", "PDF to HTML", "PDF to SVG", "PDF to JPG", "PDF to PNG", "PDF Convert", "PHP-PDF"],
     "license" : "MIT",
@@ -7,19 +7,19 @@
         {
             "name" : "Chukwuemeka Nwobodo",
             "email" : "jc.nwobodo@gmail.com"
-        }
+        },
     ],
     "require" : {
-        "php" : "^7.4|^8.0",
-        "illuminate/config" : "^5.3|^6.0|^7.0|^8.0|^9.0",
-        "illuminate/support" : "^5.3|^6.0|^7.0|^8.0|^9.0"
+        "php" : "^7.2",
+        "illuminate/config" : "^6.0 || ^7.0 || ^8.0 || ^9.0",
+        "illuminate/support" : "^6.0 || ^7.0 || ^8.0 || ^9.0"
     },
     "require-dev" : {
-        "phpunit/phpunit" : "5.5.*|^7.0|^8.0|^9.0"
+        "phpunit/phpunit" : "^8.0 || ^9.0"
     },
     "autoload" : {
         "psr-4" : {
-            "NcJoes\\PopplerPhp\\" : "src/PopplerPhp"
+            "Knox\\PopplerPhp\\" : "src/PopplerPhp"
         }
     },
     "minimum-stability" : "stable"
