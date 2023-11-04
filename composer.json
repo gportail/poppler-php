@@ -1,5 +1,5 @@
 {
-    "name" : "knox/poppler-php",
+    "name" : "gportail/poppler-php",
     "description" : "Complete, Comprehensive and Flexible PHP wrapper for Poppler-utils",
     "keywords" : ["Poppler-utils", "Poppler-PHP", "PDF", "PDF to HTML", "PDF to SVG", "PDF to JPG", "PDF to PNG", "PDF Convert", "PHP-PDF"],
     "license" : "MIT",
@@ -10,7 +10,7 @@
         },
     ],
     "require" : {
-        "php" : "^7.2",
+        "php" : ">=8.1",
         "illuminate/config" : "^6.0 || ^7.0 || ^8.0 || ^9.0",
         "illuminate/support" : "^6.0 || ^7.0 || ^8.0 || ^9.0"
     },
@@ -19,7 +19,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Knox\\PopplerPhp\\" : "src/PopplerPhp"
+            "GPortail\\PopplerPhp\\" : "src/PopplerPhp"
         }
     },
     "minimum-stability" : "stable"
