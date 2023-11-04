@@ -7,7 +7,7 @@
         {
             "name" : "Chukwuemeka Nwobodo",
             "email" : "jc.nwobodo@gmail.com"
-        },
+        }
     ],
     "require" : {
         "php" : ">=8.1",
