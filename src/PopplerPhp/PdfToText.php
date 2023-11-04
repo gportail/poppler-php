@@ -7,19 +7,19 @@
  * Time:    3:36 PM
  **/
 
-namespace NcJoes\PopplerPhp;
+namespace GPortail\PopplerPhp;
 
-use NcJoes\PopplerPhp\Constants as C;
-use NcJoes\PopplerPhp\PopplerOptions\ConsoleFlags;
-use NcJoes\PopplerPhp\PopplerOptions\CredentialOptions;
-use NcJoes\PopplerPhp\PopplerOptions\EncodingOptions;
-use NcJoes\PopplerPhp\PopplerOptions\HtmlOptions;
-use NcJoes\PopplerPhp\PopplerOptions\PageRangeOptions;
-use NcJoes\PopplerPhp\PopplerOptions\TextFlags;
+use GPortail\PopplerPhp\Constants as C;
+use GPortail\PopplerPhp\PopplerOptions\ConsoleFlags;
+use GPortail\PopplerPhp\PopplerOptions\CredentialOptions;
+use GPortail\PopplerPhp\PopplerOptions\EncodingOptions;
+use GPortail\PopplerPhp\PopplerOptions\HtmlOptions;
+use GPortail\PopplerPhp\PopplerOptions\PageRangeOptions;
+use GPortail\PopplerPhp\PopplerOptions\TextFlags;
 
 /**
  * Class PdfToText
- * @package NcJoes\PopplerPhp
+ * @package GPortail\PopplerPhp
  */
 class PdfToText extends PopplerUtil
 {

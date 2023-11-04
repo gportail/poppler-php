@@ -7,13 +7,13 @@
  * Time:    6:06 PM
  **/
 
-namespace NcJoes\PopplerPhp\PopplerOptions;
+namespace GPortail\PopplerPhp\PopplerOptions;
 
-use NcJoes\PopplerPhp\Constants as C;
+use GPortail\PopplerPhp\Constants as C;
 
 /**
  * Trait PageRangeOptions
- * @package NcJoes\PopplerPhp\PopplerOptions
+ * @package GPortail\PopplerPhp\PopplerOptions
  */
 trait PageRangeOptions
 {

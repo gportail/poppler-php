@@ -11,7 +11,7 @@ This package is brought to you so you can use php and poppler-utils to extract c
 *   Plain Text
 
 You can also use this package to split pdf files, combine pdf files, and detach embedded items from pdf files using within your php scripts.
-With the `NcJoes\PopplerPhp\PdfInfo` class, you can query meta-data of any pdf file.
+With the `GPortail\PopplerPhp\PdfInfo` class, you can query meta-data of any pdf file.
 
 ## Important Notes
 
@@ -69,11 +69,11 @@ Here are some samples.
 ```php
 <?php
 // if you are using composer, just use this
-use NcJoes\PopplerPhp\PdfInfo;
-use NcJoes\PopplerPhp\Config;
-use NcJoes\PopplerPhp\PdfToCairo;
-use NcJoes\PopplerPhp\PdfToHtml;
-use NcJoes\PopplerPhp\Constants as C;
+use GPortail\PopplerPhp\PdfInfo;
+use GPortail\PopplerPhp\Config;
+use GPortail\PopplerPhp\PdfToCairo;
+use GPortail\PopplerPhp\PdfToHtml;
+use GPortail\PopplerPhp\Constants as C;
 
 // set Poppler utils binary location
 Config::setBinDirectory('C:/path-to-project/vendor/bin/poppler');
