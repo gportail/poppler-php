@@ -22,14 +22,14 @@ It is recommended to install Poppler-PHP through [Composer](http://getcomposer.o
 Run this command within your project directory
 
 ```shell
-composer require ncjoes/poppler-php
+composer require gportail/poppler-php
 ```
 
 Or add this line to your `composer.json`
 
 ```json
 {
-	"ncjoes/poppler-php": "0.1.*"
+	"gportail/poppler-php": "0.1.*"
 }
 ```
 
