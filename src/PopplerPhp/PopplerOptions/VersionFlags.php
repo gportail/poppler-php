@@ -7,13 +7,13 @@
  * Time:    5:50 PM
  **/
 
-namespace GPortail\PopplerPhp\PopplerOptions;
+namespace Gportail\PopplerPhp\PopplerOptions;
 
-use GPortail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Constants as C;
 
 /**
  * Trait VersionFlags
- * @package GPortail\PopplerPhp\PopplerOptions
+ * @package Gportail\PopplerPhp\PopplerOptions
  */
 trait VersionFlags
 {

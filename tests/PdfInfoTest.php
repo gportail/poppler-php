@@ -7,10 +7,10 @@
  * Time:    11:35 AM
  **/
 
-use GPortail\PopplerPhp\Config;
-use GPortail\PopplerPhp\Constants as C;
-use GPortail\PopplerPhp\Exceptions\PopplerPhpException;
-use GPortail\PopplerPhp\PdfInfo;
+use Gportail\PopplerPhp\Config;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use Gportail\PopplerPhp\PdfInfo;
 
 /**
  * Class PdfInfoTest

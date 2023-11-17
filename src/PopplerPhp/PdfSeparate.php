@@ -7,9 +7,9 @@
  * Time:    3:34 PM
  **/
 
-namespace GPortail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
-use GPortail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Constants as C;
 
 class PdfSeparate extends PopplerUtil
 {

@@ -7,17 +7,17 @@
  * Time:    2:17 AM
  **/
 
-namespace GPortail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
-use GPortail\PopplerPhp\Constants as C;
-use GPortail\PopplerPhp\PopplerOptions\CairoOptions;
-use GPortail\PopplerPhp\PopplerOptions\HelpFlags;
-use GPortail\PopplerPhp\PopplerOptions\PageRangeOptions;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\PopplerOptions\CairoOptions;
+use Gportail\PopplerPhp\PopplerOptions\HelpFlags;
+use Gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
 
 /**
  * Class PdfToCairo
  *
- * @package GPortail\PopplerPhp
+ * @package Gportail\PopplerPhp
  */
 class PdfToCairo extends PopplerUtil
 {

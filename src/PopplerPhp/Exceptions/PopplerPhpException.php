@@ -7,13 +7,13 @@
  * Time:    2:20 PM
  **/
 
-namespace GPortail\PopplerPhp\Exceptions;
+namespace Gportail\PopplerPhp\Exceptions;
 
 use Exception;
 
 /**
  * Class PopplerPhpException
- * @package GPortail\PopplerPhp\Exceptions
+ * @package Gportail\PopplerPhp\Exceptions
  */
 class PopplerPhpException extends Exception
 {

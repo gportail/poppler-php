@@ -7,13 +7,13 @@
  * Time:    8:38 AM
  **/
 
-namespace GPortail\PopplerPhp\PopplerOptions;
+namespace Gportail\PopplerPhp\PopplerOptions;
 
-use GPortail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Constants as C;
 
 /**
  * Trait CairoOptions
- * @package GPortail\PopplerPhp\PopplerOptions
+ * @package Gportail\PopplerPhp\PopplerOptions
  */
 trait CairoOptions
 {

@@ -8,12 +8,12 @@
  * Time:    2:31 PM
  **/
 
-use GPortail\PopplerPhp\Config;
-use GPortail\PopplerPhp\Constants as C;
-use GPortail\PopplerPhp\Exceptions\PopplerPhpException;
-use GPortail\PopplerPhp\PdfInfo;
-use GPortail\PopplerPhp\PdfToCairo;
-use GPortail\PopplerPhp\PdfUnite;
+use Gportail\PopplerPhp\Config;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use Gportail\PopplerPhp\PdfInfo;
+use Gportail\PopplerPhp\PdfToCairo;
+use Gportail\PopplerPhp\PdfUnite;
 
 /**
  * Class PopplerUtilTest

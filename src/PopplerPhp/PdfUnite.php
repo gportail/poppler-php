@@ -7,14 +7,14 @@
  * Time:    3:36 PM
  **/
 
-namespace GPortail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
-use GPortail\PopplerPhp\Constants as C;
-use GPortail\PopplerPhp\Exceptions\PopplerPhpException;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
 
 /**
  * Class PdfUnite
- * @package GPortail\PopplerPhp
+ * @package Gportail\PopplerPhp
  */
 class PdfUnite extends PopplerUtil
 {

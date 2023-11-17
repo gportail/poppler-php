@@ -7,7 +7,7 @@
  * Time:    3:33 PM
  **/
 
-namespace GPortail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 class PdfFonts extends PopplerUtil
 {

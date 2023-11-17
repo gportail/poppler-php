@@ -7,12 +7,12 @@
  * Time:    11:59 AM
  **/
 
-namespace GPortail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 use FilesystemIterator;
-use GPortail\PopplerPhp\Constants as C;
-use GPortail\PopplerPhp\Exceptions\PopplerPhpException;
-use GPortail\PopplerPhp\Helpers as H;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use Gportail\PopplerPhp\Helpers as H;
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 use function is_array;
@@ -21,7 +21,7 @@ use function is_string;
 /**
  * Class PopplerUtil
  *
- * @package GPortail\PopplerPhp
+ * @package Gportail\PopplerPhp
  */
 abstract class PopplerUtil
 {
