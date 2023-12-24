@@ -7,19 +7,19 @@
  * Time:    3:36 PM
  **/
 
-namespace Gportail\PopplerPhp;
+namespace gportail\PopplerPhp;
 
-use Gportail\PopplerPhp\Constants as C;
-use Gportail\PopplerPhp\PopplerOptions\ConsoleFlags;
-use Gportail\PopplerPhp\PopplerOptions\CredentialOptions;
-use Gportail\PopplerPhp\PopplerOptions\EncodingOptions;
-use Gportail\PopplerPhp\PopplerOptions\HtmlOptions;
-use Gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
-use Gportail\PopplerPhp\PopplerOptions\TextFlags;
+use gportail\PopplerPhp\Constants as C;
+use gportail\PopplerPhp\PopplerOptions\ConsoleFlags;
+use gportail\PopplerPhp\PopplerOptions\CredentialOptions;
+use gportail\PopplerPhp\PopplerOptions\EncodingOptions;
+use gportail\PopplerPhp\PopplerOptions\HtmlOptions;
+use gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
+use gportail\PopplerPhp\PopplerOptions\TextFlags;
 
 /**
  * Class PdfToText
- * @package Gportail\PopplerPhp
+ * @package gportail\PopplerPhp
  */
 class PdfToText extends PopplerUtil
 {

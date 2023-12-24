@@ -1,12 +1,12 @@
 <?php
 
-namespace Gportail\PopplerPhp\PopplerOptions;
+namespace gportail\PopplerPhp\PopplerOptions;
 
-use Gportail\PopplerPhp\Constants as C;
+use gportail\PopplerPhp\Constants as C;
 
 /**
  * Trait TextFlags
- * @package Gportail\PopplerPhp\PopplerOptions
+ * @package gportail\PopplerPhp\PopplerOptions
  */
 trait TextFlags
 {

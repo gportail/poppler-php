@@ -7,13 +7,13 @@
  * Time:    2:58 PM
  **/
 
-namespace Gportail\PopplerPhp;
+namespace gportail\PopplerPhp;
 
-use Gportail\PopplerPhp\Constants as C;
+use gportail\PopplerPhp\Constants as C;
 
 /**
  * Class Helpers
- * @package Gportail\PopplerPhp
+ * @package gportail\PopplerPhp
  */
 abstract class Helpers
 {

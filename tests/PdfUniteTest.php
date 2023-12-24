@@ -1,9 +1,9 @@
 <?php
 
-use Gportail\PopplerPhp\Config;
-use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
-use Gportail\PopplerPhp\PdfInfo;
-use Gportail\PopplerPhp\PdfUnite;
+use gportail\PopplerPhp\Config;
+use gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use gportail\PopplerPhp\PdfInfo;
+use gportail\PopplerPhp\PdfUnite;
 
 /**
  * Class PdfUniteTest
@@ -20,7 +20,7 @@ class PdfUniteTest extends PHPUnit_Framework_TestCase
     }
 
     /**
-     * @expectedException Gportail\PopplerPhp\Exceptions\PopplerPhpException
+     * @expectedException gportail\PopplerPhp\Exceptions\PopplerPhpException
      */
     public function testConstructorThrowsExceptionIfSrcPdfFilesIsEmpty()
     {
@@ -28,7 +28,7 @@ class PdfUniteTest extends PHPUnit_Framework_TestCase
     }
 
     /**
-     * @expectedException Gportail\PopplerPhp\Exceptions\PopplerPhpException
+     * @expectedException gportail\PopplerPhp\Exceptions\PopplerPhpException
      */
     public function testConstructorThrowsExceptionIfSingleSrcPdfFileIsGiven()
     {

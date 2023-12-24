@@ -7,13 +7,13 @@
  * Time:    5:29 PM
  **/
 
-namespace Gportail\PopplerPhp\PopplerOptions;
+namespace gportail\PopplerPhp\PopplerOptions;
 
-use Gportail\PopplerPhp\Constants as C;
+use gportail\PopplerPhp\Constants as C;
 
 /**
  * Trait CredentialOptions
- * @package Gportail\PopplerPhp\PopplerOptions
+ * @package gportail\PopplerPhp\PopplerOptions
  */
 trait CredentialOptions
 {

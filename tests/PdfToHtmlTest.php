@@ -7,9 +7,9 @@
  * Time:    4:46 AM
  **/
 
-use Gportail\PopplerPhp\Config;
-use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
-use Gportail\PopplerPhp\PdfToHtml;
+use gportail\PopplerPhp\Config;
+use gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use gportail\PopplerPhp\PdfToHtml;
 
 /**
  * Class PdfToHtmlTest
