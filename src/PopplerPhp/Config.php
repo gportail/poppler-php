@@ -113,6 +113,7 @@ class Config
      */
     public static function getOutputDirectory($default = null)
     {
+        $default = isset($default) ? $defaut : H::parseDirName(C::DEFAULT_OUTPUT_DIR);
         $check = is_dir($default);
         $default = $check ? $default : H::parseDirName(C::DEFAULT_OUTPUT_DIR);
 
