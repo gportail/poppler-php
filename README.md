@@ -69,11 +69,11 @@ Here are some samples.
 ```php
 <?php
 // if you are using composer, just use this
-use gportail\PopplerPhp\PdfInfo;
-use gportail\PopplerPhp\Config;
-use gportail\PopplerPhp\PdfToCairo;
-use gportail\PopplerPhp\PdfToHtml;
-use gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\PdfInfo;
+use Gportail\PopplerPhp\Config;
+use Gportail\PopplerPhp\PdfToCairo;
+use Gportail\PopplerPhp\PdfToHtml;
+use Gportail\PopplerPhp\Constants as C;
 
 // set Poppler utils binary location
 Config::setBinDirectory('C:/path-to-project/vendor/bin/poppler');
