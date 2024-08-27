@@ -10,9 +10,9 @@
 namespace gportail\PopplerPhp;
 
 use FilesystemIterator;
-use gportail\PopplerPhp\Constants as C;
-use gportail\PopplerPhp\Exceptions\PopplerPhpException;
-use gportail\PopplerPhp\Helpers as H;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use Gportail\PopplerPhp\Helpers as H;
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 use function is_array;

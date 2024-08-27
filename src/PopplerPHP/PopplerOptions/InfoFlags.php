@@ -2,7 +2,7 @@
 
 namespace gportail\PopplerPhp\PopplerOptions;
 
-use gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Constants as C;
 
 /**
  * Trait InfoFlags

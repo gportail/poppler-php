@@ -9,10 +9,10 @@
 
 namespace gportail\PopplerPhp;
 
-use gportail\PopplerPhp\Constants as C;
-use gportail\PopplerPhp\PopplerOptions\CairoOptions;
-use gportail\PopplerPhp\PopplerOptions\HelpFlags;
-use gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\PopplerOptions\CairoOptions;
+use Gportail\PopplerPhp\PopplerOptions\HelpFlags;
+use Gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
 
 /**
  * Class PdfToCairo

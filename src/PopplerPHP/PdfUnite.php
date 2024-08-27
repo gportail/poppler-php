@@ -9,8 +9,8 @@
 
 namespace gportail\PopplerPhp;
 
-use gportail\PopplerPhp\Constants as C;
-use gportail\PopplerPhp\Exceptions\PopplerPhpException;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Exceptions\PopplerPhpException;
 
 /**
  * Class PdfUnite

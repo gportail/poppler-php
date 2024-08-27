@@ -9,7 +9,7 @@
 
 namespace gportail\PopplerPhp;
 
-use gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\Constants as C;
 
 /**
  * Class Helpers

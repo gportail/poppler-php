@@ -9,13 +9,13 @@
 
 namespace gportail\PopplerPhp;
 
-use gportail\PopplerPhp\Constants as C;
-use gportail\PopplerPhp\PopplerOptions\ConsoleFlags;
-use gportail\PopplerPhp\PopplerOptions\CredentialOptions;
-use gportail\PopplerPhp\PopplerOptions\EncodingOptions;
-use gportail\PopplerPhp\PopplerOptions\HtmlOptions;
-use gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
-use gportail\PopplerPhp\PopplerOptions\TextFlags;
+use Gportail\PopplerPhp\Constants as C;
+use Gportail\PopplerPhp\PopplerOptions\ConsoleFlags;
+use Gportail\PopplerPhp\PopplerOptions\CredentialOptions;
+use Gportail\PopplerPhp\PopplerOptions\EncodingOptions;
+use Gportail\PopplerPhp\PopplerOptions\HtmlOptions;
+use Gportail\PopplerPhp\PopplerOptions\PageRangeOptions;
+use Gportail\PopplerPhp\PopplerOptions\TextFlags;
 
 /**
  * Class PdfToText
