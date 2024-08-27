@@ -7,7 +7,7 @@
  * Time:    3:33 PM
  **/
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 class PdfDetach extends PopplerUtil
 {

@@ -7,7 +7,7 @@
  * Time:    6:12 PM
  **/
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 /**
  * Class Constants

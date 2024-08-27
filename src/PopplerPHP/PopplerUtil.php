@@ -7,7 +7,7 @@
  * Time:    11:59 AM
  **/
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 use FilesystemIterator;
 use Gportail\PopplerPhp\Constants as C;

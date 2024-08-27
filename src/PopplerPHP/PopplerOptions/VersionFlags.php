@@ -7,7 +7,7 @@
  * Time:    5:50 PM
  **/
 
-namespace gportail\PopplerPhp\PopplerOptions;
+namespace Gportail\PopplerPhp\PopplerOptions;
 
 use Gportail\PopplerPhp\Constants as C;
 

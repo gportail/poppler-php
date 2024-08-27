@@ -7,7 +7,7 @@
  * Time:    2:17 AM
  **/
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 use Gportail\PopplerPhp\Constants as C;
 use Gportail\PopplerPhp\PopplerOptions\CairoOptions;

@@ -7,7 +7,7 @@
  * Time:    12:59 AM
  **/
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 use Gportail\PopplerPhp\Constants as C;
 use Gportail\PopplerPhp\PopplerOptions\ConsoleFlags;

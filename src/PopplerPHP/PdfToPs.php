@@ -7,7 +7,7 @@
  * Time:    3:35 PM
  **/
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 class PdfToPs extends PopplerUtil
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace gportail\PopplerPhp;
+namespace Gportail\PopplerPhp;
 
 use Illuminate\Config\Repository;
 use Gportail\PopplerPhp\Constants as C;
