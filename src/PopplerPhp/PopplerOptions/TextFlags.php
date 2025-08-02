@@ -31,6 +31,6 @@ trait TextFlags
      */
     protected function textFlags()
     {
-        return [C::_BBOX_LAYOUT, C::_LAYOUT];
+        return [C::_BBOX_LAYOUT, C::_LAYOUT, C::_NOPGBRK];
     }
 }

@@ -91,6 +91,7 @@ abstract class Constants
     const _BBOX_LAYOUT = '-bbox-layout';
     const _LAYOUT      = '-layout';
     const _BOX         = '-box';
+    const _NOPGBRK     = '-nopgbrk';
 
     //Poppler Option DataTypes
     const T_STRING  = 'string';
